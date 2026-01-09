@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "夢の続き feat. 田我流",
+  "base_artist": "EVISBEATS",
+  "createdAt": "2026-01-09T14:16:41.246107Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "夢の続き",
+      "artist": "Mariya Takeuchi",
+      "has_synced": true,
+      "path": "select/01_夢の続き_Mariya_Takeuchi.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "夢の続き",
+      "artist": "Konomi Suzuki",
+      "has_synced": true,
+      "path": "select/02_夢の続き_Konomi_Suzuki.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "夢の続き",
+      "artist": "Nana Mizuki",
+      "has_synced": true,
+      "path": "select/03_夢の続き_Nana_Mizuki.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "夢の続き",
+      "artist": "水樹奈々",
+      "has_synced": true,
+      "path": "select/04_夢の続き_水樹奈々.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "夢の続き",
+      "artist": "Dixie Flatline feat. 初音ミク",
+      "has_synced": false,
+      "path": "select/05_夢の続き_Dixie_Flatline_feat._初音ミク.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "夢の続き",
+      "artist": "Younha",
+      "has_synced": true,
+      "path": "select/06_夢の続き_Younha.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "夢の続き",
+      "artist": "Mariya Takeuchi",
+      "has_synced": true,
+      "path": "select/07_夢の続き_Mariya_Takeuchi.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "夢の続き",
+      "artist": "Takeuchi, Mariya",
+      "has_synced": true,
+      "path": "select/08_夢の続き_Takeuchi,_Mariya.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "夢の続き",
+      "artist": "鈴木このみ",
+      "has_synced": true,
+      "path": "select/09_夢の続き_鈴木このみ.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "夢の続き",
+      "artist": "竹内まりや",
+      "has_synced": true,
+      "path": "select/10_夢の続き_竹内まりや.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "夢の続き",
+      "artist": "竹内まりや",
+      "has_synced": false,
+      "path": "select/11_夢の続き_竹内まりや.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "夢の続き",
+      "artist": "鈴木このみ",
+      "has_synced": false,
+      "path": "select/12_夢の続き_鈴木このみ.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "夢の続き",
+      "artist": "Konomi Suzuki",
+      "has_synced": true,
+      "path": "select/13_夢の続き_Konomi_Suzuki.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "夢の続き",
+      "artist": "鈴木このみ",
+      "has_synced": true,
+      "path": "select/14_夢の続き_鈴木このみ.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "夢の続き",
+      "artist": "eill",
+      "has_synced": true,
+      "path": "select/15_夢の続き_eill.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "夢の続き ['89 CD Single Mix]",
+      "artist": "Mariya Takeuchi",
+      "has_synced": true,
+      "path": "select/16_夢の続き_['89_CD_Single_Mix]_Mariya_Takeuchi.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "夢の続き ('89 CD Single Mix)",
+      "artist": "竹内まりや",
+      "has_synced": true,
+      "path": "select/17_夢の続き_('89_CD_Single_Mix)_竹内まりや.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "夢の続き ['89 CD Single Mix]",
+      "artist": "竹内まりや",
+      "has_synced": true,
+      "path": "select/18_夢の続き_['89_CD_Single_Mix]_竹内まりや.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "夢の続き",
+      "artist": "EVISBEATS Feat. 田我流",
+      "has_synced": false,
+      "path": "select/pl_01_夢の続き_EVISBEATS_Feat._田我流.txt"
+    }
+  ]
+}
